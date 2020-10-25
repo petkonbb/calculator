@@ -1,0 +1,31 @@
+body {
+    background-color: cyan;
+}
+
+.calculator-body {
+    background-color: blue;
+    padding: 50px 250px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.calculator-ekran {
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    flex-shrink: 0;
+    margin: 10px;
+}
+.calculator-body {
+    background-color: purple;
+}
+@media only screen and (min-width: 700px){
+    .calculator-body {
+        background-color: black;
+
+    }
+}
+
+th {
+    height: 100px;
+    width: 100px;
+}

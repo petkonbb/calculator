@@ -1,0 +1,11 @@
+.core {
+    display: flex;
+    justify-content: center;
+    padding: 200px;
+    color: rgb(9, 252, 9);
+}
+.pole {
+   margin-left: auto;
+   margin-right: auto;
+}
+
